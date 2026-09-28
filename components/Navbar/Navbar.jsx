@@ -10,9 +10,9 @@ import Link from "next/link";
 import MusicButton from "./MusicButton";
 
 const EMAIL = "subhanishaik1922@gmail.com";
-const PHONE = "tel:+918143182990";
-const LINKEDIN_URL = "https://www.linkedin.com/in/shaik-mahaboob-subhani/";
-const GITHUB_URL = "https://github.com/shaikmahaboobsubhani";
+const PHONE = "tel:+91 7989112990";
+const LINKEDIN_URL = "https://www.linkedin.com/in/mahaboob-subhani-shaik-961a68228/";
+const GITHUB_URL = "https://github.com/subhanishaik1922";
 
 const scrollToSection = (id) => {
   if (typeof window === "undefined") return;
@@ -198,7 +198,7 @@ function Navbar() {
               onClick={() => setMobileOpen(false)}
               className="flex items-center justify-between border-2 border-fg text-fg rounded-full px-5 py-3 text-xs tracking-[0.2em] font-semibold"
             >
-              <span>+91 8143182990</span>
+              <span>+91 7989112990</span>
               <span aria-hidden="true">↗</span>
             </a>
           </div>

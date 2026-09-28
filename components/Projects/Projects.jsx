@@ -7,8 +7,8 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 const PROJECTS = [
   {
     name: "Personal DevOps Portfolio & Cloud Automation",
-    href: "https://subhani-portfolio.dev",
-    github: "https://github.com/shaikmahaboobsubhani",
+    href: "https://github.com/subhanishaik1922",
+    github: "https://github.com/subhanishaik1922",
     role: "Terraform • AWS S3 & CloudFront • Azure VNets • Ansible • Linux",
     kind: "Cloud Infrastructure",
     note: "Designed and hosted an online personal portfolio platform utilizing highly resilient AWS S3 architectures and CloudFront distribution paths. Automated the deployment of cloud networking schemas with modular configurations for AWS VPCs and Azure Virtual Networks, and enforced baseline consistency across Linux clusters using Ansible playbooks.",
@@ -16,7 +16,7 @@ const PROJECTS = [
   {
     name: "End-to-End Automated CI/CD Pipelines",
     href: null,
-    github: "https://github.com/shaikmahaboobsubhani",
+    github: "https://github.com/subhanishaik1922",
     role: "GitHub Actions • Jenkins • Docker • Artifact Isolation • GitOps",
     kind: "CI/CD Automation",
     note: "Engineered robust Declarative Jenkinsfiles to automate standard package execution, static lint checks, and artifact isolation scripts. Integrated GitHub Actions configurations to seamlessly deploy verified versioned container structures to production registries upon pull request completion.",
@@ -24,7 +24,7 @@ const PROJECTS = [
   {
     name: "Containerized Architecture & Infrastructure Monitoring",
     href: null,
-    github: "https://github.com/shaikmahaboobsubhani",
+    github: "https://github.com/subhanishaik1922",
     role: "Kubernetes • Docker • Prometheus • Grafana • Alerting",
     kind: "Cloud Native & Observability",
     note: "Constructed explicit Kubernetes manifest blueprints to configure scaling targets, service boundaries, and storage attachments for microservices. Deployed comprehensive Prometheus instrumentation layers and dynamic Grafana visualizations to capture host metrics and minimize target operational downtime.",
@@ -32,7 +32,7 @@ const PROJECTS = [
   {
     name: "Battery Health Monitoring System using LoRaWAN",
     href: null,
-    github: "https://github.com/shaikmahaboobsubhani",
+    github: "https://github.com/subhanishaik1922",
     role: "IoT Sensors • LoRaWAN • Postman API Testing • Telemetry • VFSTR",
     kind: "IoT & Systems",
     note: "Developed a wireless tracking architecture to monitor real-time battery parameters including temperature, voltage, and electrical current profiles. Validated telemetry pipelines by utilizing Postman suite execution to verify data consistency across backend tracking layers.",

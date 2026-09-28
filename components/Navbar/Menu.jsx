@@ -2,9 +2,9 @@ import { useSpring, a } from "@react-spring/web";
 import React, { useEffect, useRef, useState } from "react";
 
 const EMAIL = "subhanishaik1922@gmail.com";
-const PHONE = "tel:+918143182990";
-const LINKEDIN_URL = "https://www.linkedin.com/in/shaik-mahaboob-subhani/";
-const GITHUB_URL = "https://github.com/shaikmahaboobsubhani";
+const PHONE = "tel:+91 7989112990";
+const LINKEDIN_URL = "https://www.linkedin.com/in/mahaboob-subhani-shaik-961a68228/";
+const GITHUB_URL = "https://github.com/subhanishaik1922";
 
 const scrollToSection = (id) => {
   if (typeof window === "undefined") return;
