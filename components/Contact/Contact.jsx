@@ -6,7 +6,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 const EMAIL_ADDRESS = "subhanishaik1922@gmail.com";
 const PHONE_NUMBER = "+91 7989112990";
-const LINKEDIN_URL = "www.linkedin.com/in/mahaboob-subhani-shaik-961a68228";
+const LINKEDIN_URL = "https://www.linkedin.com/in/mahaboob-subhani-shaik-961a68228/";
 const GITHUB_URL = "https://github.com/subhanishaik1922";
 
 const ArrowUpRight = () => (

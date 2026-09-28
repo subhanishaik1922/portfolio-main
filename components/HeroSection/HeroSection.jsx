@@ -296,7 +296,7 @@ const HeroSection = () => {
             className="flex items-center gap-5 mt-8 text-[#060607]/80"
           >
             <a
-              href="https://github.com/shaikmahaboobsubhani"
+              href="https://github.com/subhanishaik1922"
               target="_blank"
               rel="noopener noreferrer"
               title="GitHub"
@@ -308,7 +308,7 @@ const HeroSection = () => {
               </svg>
             </a>
             <a
-              href="https://www.linkedin.com/in/shaik-mahaboob-subhani/"
+              href="https://www.linkedin.com/in/mahaboob-subhani-shaik-961a68228/"
               target="_blank"
               rel="noopener noreferrer"
               title="LinkedIn"
@@ -331,7 +331,7 @@ const HeroSection = () => {
               </svg>
             </a>
             <a
-              href="tel:+918143182990"
+              href="tel:+91 7989112990"
               title="Call Subhani"
               aria-label="Call Subhani"
               className="hover:text-accent transition-colors"

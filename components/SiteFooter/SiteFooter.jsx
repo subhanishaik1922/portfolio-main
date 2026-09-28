@@ -58,7 +58,7 @@ const SiteFooter = () => {
           </p>
           <div className="f-socials">
             <a
-              href="www.linkedin.com/in/mahaboob-subhani-shaik-961a68228"
+              href="https://www.linkedin.com/in/mahaboob-subhani-shaik-961a68228/"
               target="_blank"
               rel="noreferrer"
               aria-label="LinkedIn"
