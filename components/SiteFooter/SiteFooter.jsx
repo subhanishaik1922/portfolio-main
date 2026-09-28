@@ -58,7 +58,7 @@ const SiteFooter = () => {
           </p>
           <div className="f-socials">
             <a
-              href="https://www.linkedin.com/in/shaik-mahaboob-subhani/"
+              href="www.linkedin.com/in/mahaboob-subhani-shaik-961a68228"
               target="_blank"
               rel="noreferrer"
               aria-label="LinkedIn"
@@ -67,7 +67,7 @@ const SiteFooter = () => {
               <LinkedinIcon />
             </a>
             <a
-              href="https://github.com/shaikmahaboobsubhani"
+              href="https://github.com/subhanishaik1922"
               target="_blank"
               rel="noreferrer"
               aria-label="GitHub"
@@ -83,7 +83,7 @@ const SiteFooter = () => {
               <MailIcon />
             </a>
             <a
-              href="tel:+918143182990"
+              href="tel:+91 7989112990"
               aria-label="Phone"
               title="Phone"
             >

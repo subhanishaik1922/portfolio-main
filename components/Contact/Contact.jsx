@@ -5,9 +5,9 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 const EMAIL_ADDRESS = "subhanishaik1922@gmail.com";
-const PHONE_NUMBER = "+918143182990";
-const LINKEDIN_URL = "https://www.linkedin.com/in/shaik-mahaboob-subhani/";
-const GITHUB_URL = "https://github.com/shaikmahaboobsubhani";
+const PHONE_NUMBER = "+91 7989112990";
+const LINKEDIN_URL = "www.linkedin.com/in/mahaboob-subhani-shaik-961a68228";
+const GITHUB_URL = "https://github.com/subhanishaik1922";
 
 const ArrowUpRight = () => (
   <svg
@@ -142,7 +142,7 @@ const Contact = () => {
           id="ct-btn-secondary"
           href={`tel:${PHONE_NUMBER}`}
         >
-          <span>+91 8143182990</span>
+          <span>+91 7989112990</span>
           <ArrowUpRight />
         </a>
       </div>
