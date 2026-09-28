@@ -10,7 +10,7 @@ import SmoothScroll from "@/components/SmoothScroll";
 import GradualBlur from "@/components/GradualBlur/GradualBlur";
 import SkillsSection from "@/components/Skills/SkillsSection";
 import Projects from "@/components/Projects/Projects";
-import Certificates from "@/components/Certificates/Certificates";
+//import Certificates from "@/components/Certificates/Certificates";
 import ExperienceSection from "@/components/Experience/ExperienceSection";
 import EducationSection from "@/components/Education/EducationSection";
 import HorizontalScroll from "@/components/HorizontalScroll/HorizontalScroll";
@@ -115,7 +115,7 @@ export default function Home() {
 
           <Projects />
 
-          <Certificates />
+          {/* <Certificates /> */}
 
           <ExperienceSection />
 
